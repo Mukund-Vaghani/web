@@ -1,0 +1,55 @@
+a{
+    cursor: pointer;
+}
+
+
+.connect_icon_social:hover, .connect_icon_social:focus {
+    text-decoration: none;
+    outline: none;
+    transition: all 0.5s;
+}
+
+.connect_icon_social:hover {
+    color: #0a58ca;
+}
+
+
+
+.owl-nav {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .owl-nav button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .owl-nav button:hover {
+    background-color: #0056b3;
+  }
+  
+  .prev-btn {
+    margin-left: 20px;
+  }
+  
+  .next-btn {
+    margin-right: 20px;
+  }
+  
+
+   .btn-user-contact-form{
+    background: #d82332;
+    color: #fff;
+    padding: 10px 50px;
+    border-radius: 10px;
+    border: 1px solid #d82332;
+}
